@@ -59,7 +59,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Generative AI Developer",
     icon: mobile,
   },
   {
@@ -158,16 +158,14 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "",
     points: [
-      "Innovation thrives in collaboration. I find immense joy in working on team-based projects, where creativity knows no bounds. Together, we conquer complex challenges and bring groundbreaking solutions to life. it's about making a difference in people's lives. I prioritize the user in every  product I build. By focusing on user needs and experiences, I ensure that my solutions are not only advanced but also user-friendly and impactful.",
+      "Innovation thrives in collaboration. I find immense joy in working on team-based projects, where creativity knows no bounds. Together, we conquer complex challenges and bring groundbreaking solutions to life. it's about making a difference in people's lives. I prioritize the user in every  product I build.",
   
     ],
   },
   {
     title: "Journey from SAAS to AI Adventures",
-    company_name: "Shopify",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
     points: [
       "Currently, I'm a member of the technical staff at a SAAS (Software as a Service) company, where I've contributed to exciting projects. However, my true adventure lies in the exploration of Generative AI. Each day, I'm on a mission to push the boundaries of what AI can achieve. Passion for learning drives me forward. Taking on new challenges beyond my comfort zone fuels my growth as a software engineer. Constantly learning keeps me at the forefront of the AI revolution.",
     ],
