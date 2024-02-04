@@ -42,13 +42,12 @@ export const navLinks = [
     title: "Work",
   },
   {
-    id: "contact",
-    title: "Contact",
+    id: "projects",
+    title: "Projects",
   },
   {
-    id: "source-code",
-    title: "Source Code",
-    link: "http://www.github.com/Technical-Rishabh-tech/3d-portfolio/",
+    id: "contact",
+    title: "Contact",
   },
 ];
 
